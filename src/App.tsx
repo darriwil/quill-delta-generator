@@ -82,6 +82,7 @@ const App: React.FC = () => {
     <div className="app-container">
       <div className="header">
         <div className="app-title">Quill Delta Generator</div>
+        <a className="repo-link" href="https://github.com/DEVIOUSXCVIII/quill-delta-generator" target="_blank">Repo</a>
       </div>
 
       <div className="body">

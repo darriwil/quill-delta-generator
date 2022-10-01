@@ -6,6 +6,7 @@
   width: 100vw;
   height: 10vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -15,6 +16,10 @@
   font-size: 48px;
   font-family: "consolas";
   font-weight: bold;
+}
+
+.repo-link {
+  color: #ff7f7f;
 }
 
 .body {
