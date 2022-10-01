@@ -1,2 +1,3 @@
-# quill-delta-generator
-個人的に必要なやつ
+# Quill Delta Generator
+
+Personally needed.
