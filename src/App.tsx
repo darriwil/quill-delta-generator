@@ -83,7 +83,7 @@ const App: React.FC = () => {
       <div className="header">
         <div className="app-title">Quill Delta Generator</div>
         {/* eslint-disable-next-line react/jsx-no-target-blank */}
-        <a className="repo-link" href="https://github.com/DEVIOUSXCVIII/quill-delta-generator" target="_blank">Repo</a>
+        <a className="repo-link" href="https://github.com/darriwil/quill-delta-generator" target="_blank">Repo</a>
       </div>
 
       <div className="body">
